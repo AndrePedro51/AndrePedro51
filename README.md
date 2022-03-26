@@ -1,6 +1,6 @@
 <h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André</h1>
 
-- 💻 Logistics analyst & Web Developer
+- 🎯 Logistics analyst & Web Developer
 
 - 🔥 I'm currently working at [Chok Distribuidora](http://chokdistribuidora.com.br/chok/)
 
@@ -23,7 +23,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePedro51&layout=compact&theme=midnight-purple" alt="AndrePedro51's stats"/>
 </p>
 
-## 🧑🏻 &nbsp;Social Links
+![Snake animation](https://github.com/AndrePedro51/AndrePedro51/blob/output/github-contribution-grid-snake.svg)
+
+## 📧 &nbsp;Contact Me!
 
 <a href="https://www.linkedin.com/in/andr%C3%A9-gomes-7a4aa0181/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-andregomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -34,19 +36,6 @@
 <a href="https://api.whatsapp.com/send?phone=5516991616394&text=Ol%C3%A1%20Andr%C3%A9!" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whastsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
-
-![Snake animation](https://github.com/AndrePedro51/AndrePedro51/blob/output/github-contribution-grid-snake.svg)
-<!--
-**AndrePedro51/AndrePedro51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:andrepedro51@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
